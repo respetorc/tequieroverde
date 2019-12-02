@@ -4,4 +4,4 @@ title: Agenda
 permalink: /agenda/
 ---
 
-Agenda de actividades del sistema agroalimentario porcino (en elaboración).
+Agenda de actividades del proyecto Te Quiero Verde(en elaboración).
