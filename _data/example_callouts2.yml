@@ -1,0 +1,26 @@
+style: is-light
+height: is-medium
+items:
+  - title: Agenda
+    subtitle: Año 2020
+    icon: fas-fa-camera
+    description: >
+      Agenda con las actividades del proyecto para el 2020.
+    call_to_action_name: Agenda
+    call_to_action_link: /agenda/
+
+  - title: Mapa contaminantes ambientales
+    subtitle: Region Pampeana
+    icon: fas-fa-atom
+    description: >
+      Mapa con los contaminantes ambientales de la región pampeana
+    call_to_action_name: Mapa
+    call_to_action_link: /mapa/
+
+  - title: Datos
+    subtitle: Información de los contaminantes ambientales
+    icon: fas-fa-bus
+    description: >
+      noticias y publicaciones de los lugares donde se encontraron contaminantes ambientales
+    call_to_action_name: datos
+    call_to_action_link: /datos/

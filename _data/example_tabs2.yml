@@ -1,0 +1,13 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Menu
+    link: /
+    icon: fas fa-ambulance
+  - name: Agenda
+    link: /agenda/
+    icon: fas fa-campground
+  - name: Tabla
+    link: /postabla/
+    icon: fas fa-caravan

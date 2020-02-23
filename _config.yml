@@ -57,7 +57,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: example_footer_menu2
 
 collections:
   products:

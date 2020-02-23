@@ -2,6 +2,7 @@
 layout: page-sin-post
 title: Datos
 permalink: /georef/
+hide_hero: true
 ---
 
 latitud|longitud|lugar|fecha|dirección|cant|especies colocadas|imagenes|

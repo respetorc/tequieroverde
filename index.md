@@ -5,30 +5,29 @@
 layout: page
 #hide_hero: false
 hero_height: is-fullheight
-show_sidebar: false
-title: Te Quiero Verde
-subtitle: proyecto socio-espiritual-educativo
+show_sidebar: true
+title: Contaminantes Ambientales
+subtitle: Recursos Educativos Abiertos sobre contaminantes químicos ambientales y sus efectos a la salud
+hide_footer: true
+callouts: example_callouts2
+
 ---
 
-#### Te Quiero Verde
+#### Objetivos
 
-Es el nombre de un proyecto *socio-espiritual-educativo* que incluye una parte de agricultura urbana basada en huertas particulares o comunitarias y otra relacionada con el respeto y cuidado por el arbolado público impulsando la reforestación de la ciudad con árboles nativos y frutales en zonas urbanas o periurbanas.
+- Generar material de divulgación científica con información certera y actualizada sobre los contaminantes químicos ambientales y sus efectos sobre la salud humana y ambiente.
+- Concientizar a la población acerca del impacto en la salud y ambiente de dichos contaminantes.
+- Promover la inserción de la temática en la comunidad desde una perspectiva digital abierta y accesible que favorezca la formación integral de los ciudadanos.
 
-#### Red de huertas y huerterxs
 
-Por un lado, aspiramos a poder generar una red de huertas y huerterxs en todos los barrios de la ciudad para poder generar la mayor autosuficiencia de alimentos posible.
-Comenzamos una experiencia de huerta piloto en el patio de una casa para luego poder transmitir el conocimiento adquirido y que se pueda replicar en mas patios de casas, instituciones, o espacios comunitarios.
+#### Recursos Educativos Abiertos (REA)
 
-#### Fondo de ahorros del partido
+Hacen referencia a materiales de enseñanza, aprendizaje e investigación en soporte digital de carácter gratuito, ya que son publicados con una licencia abierta (Creative Commons) o variantes de la misma (Licencia de producción de pares) que permite su uso, adaptación y redistribución por otros sin ninguna restricción o con restricciones limitadas. Los REA se consideran de gran importancia e interés en el futuro de la enseñanza y la educación, tanto de entornos escolares como universitarios.
 
-Con el fondo de ahorros del partido ( http://respeto.org.ar/fondo_de_ahorros/ ) adquirimos una serie de herramientas sencillas pero importantes a la hora de comenzar una huerta; y en conjunto con algunxs compañerxs comenzamos a materializar esta idea que ya ha empezado a dar sus frutos.
+__Los REA ofrecen una valiosa oportunidad a alumnos, docentes y comunidad en general de poder acceder al conocimiento sin tener que pagar debido a que se pueden utilizar en entornos colaborativos, permiten aplicarse en diferentes metodologías/ pedagogías y se pueden personalizar para garantizar un aprendizaje a medida del alumn@ o ciudadan@.__
 
-Para conocer el primer ciclo de primavera-verano de la huerta iniciada visita nuestra pagina: http://respeto.org.ar/2019/01/15/verde_te_quiero_verde/
-
-#### Acciones
-
-Por el otro lado, venimos impulsando acciones como el proyecto "nueva vida, nuevo árbol",  el CO.PRO.AR.PU con resoluciones como la responsabilidad del frentista sobre el arbolado público entre otras.
-
-#### Adquisición de herramientas
-
-De la misma forma que para las huertas, adquirimos herramientas simples como palas y otra más compleja como una oyadora y realizamos distintos tipos de plantaciones en la ciudad.
+En este sitio se encontrará disponible material de divulgación con los siguientes contenidos:
+-	Contaminantes ambientales más relevantes
+-	Fuentes y vías de exposición
+-	Metodologías disponibles para la evaluación de efectos tempranos
+-	Enfermedades más frecuentes causadas por contaminación ambiental

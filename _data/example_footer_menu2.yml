@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Agenda
+  link: /agenda/
+- name: Mapa
+  link: /mapa/
+- name: Datos
+  link: /georef/

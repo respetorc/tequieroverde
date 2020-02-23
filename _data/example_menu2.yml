@@ -1,0 +1,12 @@
+- label: Menu del sitio
+  items:
+    - name: Inicio
+      link: /
+    - name: Mapa
+      link: /mapa/
+    - name: Agenda
+      link: /agenda
+    - name: Datos
+      link: /georef/
+    - name: Tablas
+      link: /postabla/
