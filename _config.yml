@@ -49,9 +49,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Ignacio Origlia"
       layout: post
-      image: logo.jpg
+      hero_image: /img/paper-lluvia.jpg
       show_sidebar: true
 
 markdown: kramdown
@@ -63,5 +63,5 @@ collections:
   products:
     output: true
     layout: product
-    image: logo.jpg
+    image: /img/paper-lluvia.jpg
     show_sidebar: false
