@@ -1,11 +1,9 @@
 - name: Mapa
   link: /mapa.html
-- name: Agenda
-  link: /agenda/
 - name: Datos
   link: /georef/
-- name: Tabla
-  link: /postabla/
+- name: Agenda
+  link: /agenda/
 - name: Presentaciones
   link: /presentaciones/
 - name: Noticias

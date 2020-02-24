@@ -1,25 +1,30 @@
 ---
 layout: page-sin-post
-title: Datos
+title: Datos del mapa
 permalink: /georef/
 hide_hero: true
 ---
 
+### 1) Atrazina en Agua de la Canilla
+María Juana, Santa Fé: A través de la Agrupación <a href="https://www.facebook.com/Pueblo-Vivo-Mar%C3%ADa-Juana-105321714169305/"> Pueblo Vivo </a> se detectó Atrazina en una muestra de Agua. Ahora buscan apoyo económico para comprar los reactivos que se necesitan para hacer estudios de plaguicidas en suelo, agua y aire.
+"__BUSCAMOS APOYO ECONÓMICO PARA LOS ESTUDIOS DEL CONICET__
+
+_Como es de público conocimiento, en el mes de marzo vendrán científicos del CONICET y de la Universidad Nacional de La Plata para realizar estudios de aire, agua y suelo de la localidad de María Juana, para detectar si estamos expuestos o no, como habitantes de esta localidad, a sustancias que nos afectan la salud como los agroquímicos._"
+
+<img width="400" src="img/atrazinajpg"/>
+imágen del resultado del análisis de la muestra de agua
+
+### 2) Glifosato y AMPA en agua de lluvia
+Un estudio Realizado por el equipo del Dr. Marino de la UNLP encontró distintas concentraciones de Glifosato y su metabolito (AMPA) en distintas provincias de la región Pampeana
+- Santa Fé: compuesto por Brinkmann, Córdoba y Hersilia, Santa Fé: (resultados santa fe)
+- Entre Rios: Urdinarrain 
+- Buenos Aires: compuesto por La Plata y Coronel Suarez
+- Córdoba: compuesto por Malvinas Argentinas, Barrio Ituzaingó Anexo y Marcos Juarez
+
+
+
+
+
 latitud|longitud|lugar|fecha|dirección|cant|especies colocadas|imagenes|
 -------|---------|----|-----|---------|----|------------------|--------|
 -33.097377|-64.300214|Predio Pablo Aimar A.A.E|Septiembre 2019|Iguazú|27|-Arca (Parasenegallia visco) -Aguaribay (Schinus areira)|respeto.org.ar/tequieroverde/img/AAE.jpg
--33.090228|-64.3617|Comedor Social Betty|Septiembre 2019|Av. spam|12|-Duraznero (Prunus persica) -Higuera (Ficus carica) -Jacaranda (Jacaranda mimosifolia) -Algarrobo blanco (Prosopis alba) -Arca (Parasenegallia visco) -Aguaribay (Schinus areira)|respeto.org.ar/tequieroverde/img/bety.jpg
--33.105929|-64.353957|Hogar Madre María de Dios|Septiembre 2019|Rio Tercero 872|5||
--33.115110|-64.334881|Huerta Comunitaria|Agosto y Septiembre 2019|Pje. Sta Cruz  319|4|-Jacaranda (Jacaranda mimosifolia) -Higuera (Ficus carica)|
--33.147967|-64.365188|Jardín Indio Felipe Rosas 418|Septiembre 2019|Geronimo del Barco 3028|6|-Arca (Parasenegallia visco) -Aguaribay (Schinus areira)|
--33.126716|-64.366991|Cooperativa de Recuperadores Urbanos|Septiembre 2019|Luis Reinaudi y Martires Riocuartenses|5|-Arca (Parasenegallia visco) -Aguaribay (Schinus areira)|
--33.138972|-64.377888|Vecina castelli 1|Octubre 2019|Juarez Celman 1600|5|-Arca (Parasenegallia visco) -Aguaribay (Schinus areira)|
--33.133084|-64.344556|Vecinxs plaza racedo|Octubre 2019|Saavedra 600|5|-Jacaranda (Jacaranda mimosifolia)|
--33.105710|-64.364165|Vecino |Octubre 2019|Rio Segundo 1600|2|-Aguaribay (Schinus areira)|
--33.096902|-64.325825|Vecino |Octubre 2019|Pje. Costa Rica 60|2|-Arca (Parasenegallia visco) -Algarrobo blanco (Prosopis alba)|
--33.141660|-64.366600|Vecina|Octubre 2019|Maipu 2600|2|-Arca (Parasenegallia visco) -Algarrobo blanco (Prosopis alba)|
--33.142292|-64.371396|"Vecina
-"|Noviembre 2019|Pje. Laforgue 2700|4|-Aguaribay (Schinus areira)|
--33.106275|-64.355505|Escuela IPEMN N°27|Noviembre 2019|11 de Noviembre 1200|9|-Cina cina (Parkinsonia aculeata) -Algarrobo blanco (Prosopis alba) -Aguaribay (Schinus areira) -Lagaña de perro o Barba de chivo (Caesalpinia gilliesii)|
--33.134503|-64.333040|"Vecina
-"|Noviembre 2019|Montevideo y Vicente Lopez y Planes|5|-Cina cina (Parkinsonia aculeata) -Jacaranda (Jacaranda mimosifolia) -Lagaña de perro o Barba de chivo (Caesalpinia gilliesii)|

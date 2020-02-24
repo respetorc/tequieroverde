@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Glifosato en agua corriente"
+title:  "Atrazina en agua corriente"
 date:   2019-07-23
-description: "encontraro Glifosato en agua corriente"
+description: "encontraro atrazina en agua corriente"
 image: logo.jpg
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+hero_image: img/paper-lluvia.jpg
 hero_height: is-large
 published: true
 tags: webdev showdev webdesign
