@@ -3,12 +3,12 @@
 - name: Datos
   link: /georef/
 - name: GeMA
-  link: /agenda/
+  link: /gema/
 - name: Presentaciones
   link: /presentaciones/
 - name: Noticias
   link: /blog/
-- name: contaminantes
+- name: Contaminantes
   link: /#
   dropdown:
       - name: Plaguicidas
