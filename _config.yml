@@ -1,7 +1,7 @@
 # Site Settings
-title: Te Quiero Verde
-tagline: Proyecto de arbolado y huertas hurbanas de RESPETO
-email: your-email@domain.com
+title: Contaminantes Ambientales
+tagline: Recursos Educativos Abiertos sobre contaminantes químicos ambientales y sus efectos a la salud
+email: ignaoriglia@gmail.com
 description: >
   Sistema Agroalimentario Porcino - CIAP
 baseurl: "/tequieroverde"
@@ -51,7 +51,7 @@ defaults:
     values:
       author: "C.S. Rhymes"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: logo.jpg
       show_sidebar: true
 
 markdown: kramdown
@@ -63,5 +63,5 @@ collections:
   products:
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    image: logo.jpg
     show_sidebar: false
