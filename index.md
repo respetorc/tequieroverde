@@ -6,8 +6,8 @@ layout: page
 #hide_hero: false
 hero_height: is-fullheight
 show_sidebar: true
-title: Contaminantes Ambientales
-subtitle: Recursos Educativos Abiertos sobre contaminantes químicos ambientales y sus efectos a la salud
+title: Contaminantes Ambientales de Argentina
+subtitle: Recursos Educativos Abiertos sobre contaminantes químicos ambientales y sus efectos a la salud producidos por el grupo de Genética y Mutagénesis Ambiental (GeMA) de la Universidad Nacional de Río Cuarto
 hide_footer: true
 callouts: example_callouts2
 

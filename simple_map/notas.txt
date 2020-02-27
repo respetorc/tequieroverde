@@ -1,3 +1,10 @@
 map= te quiero verde
 zoom: 13
 lat/long: -33.1205/-64.3340
+
+logo:
+<img src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/images/marker-icon.png" 
+class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" 
+style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; 
+transform: translate3d(694px, 135px, 0px); z-index: 135; opacity: 1; outline: currentcolor none medium;" 
+alt="" tabindex="0">
